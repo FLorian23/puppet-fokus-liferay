@@ -1,0 +1,11 @@
+{
+	"name": "fokus-liferay",
+	"version": "0.1.0",
+	"author": "Florian Thiemer",
+	"license": "Apache License, Version 2.0",
+	"summary": "Puppet module for installing liferay onto jboss",
+	"tags": ["jboss", "liferay"],
+	"dependencies": [
+		{ "name": "example42/jboss" }
+	]
+}
