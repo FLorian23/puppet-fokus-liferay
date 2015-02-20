@@ -4,6 +4,7 @@
 	"author": "Florian Thiemer",
 	"license": "Apache License, Version 2.0",
 	"summary": "Puppet module for installing liferay onto jboss",
+	"source": "https://github.com/FLorian23/puppet-fokus-liferay",
 	"tags": ["jboss", "liferay"],
 	"dependencies": [
 		{ "name": "example42/jboss" }
